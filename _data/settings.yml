@@ -1,0 +1,19 @@
+menu:
+# - {name: 'about', url: '/about'}
+- {name: 'Post', url: '/post'}
+- {name: 'Contact', url: '/contact'}
+
+about:
+- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+
+# courses:
+# - {name: 'Vector Calculus', url: 'vector-calculus'}
+
+
+social:
+# - {icon: 'github', link: 'https://github.com/LeNPaul'}
+# - {icon: 'twitter', link: 'https://twitter.com/paululele'}
+
+
+contacts:
+- {name: '', email: 'women.kaust@gmail.com', office: virtual, phone: +966-0000-000000, image: 'assets/img/contact.jpg'}
